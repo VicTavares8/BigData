@@ -1,0 +1,5 @@
+**/.venv/
+.vscode/
+P1_2_prueba/
+**/_pycache_/
+**/.ipynb_checkpoints/

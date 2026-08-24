@@ -1,0 +1,4 @@
+Python = 3.14.7
+Pandas = 3.0.5
+NumPy = 2.5.2
+Jupyter = 7.6.2
