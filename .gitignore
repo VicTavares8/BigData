@@ -3,3 +3,5 @@
 P1_2_prueba/
 **/_pycache_/
 **/.ipynb_checkpoints/U4_2_ExamenP2/data/raw/nyc_taxi_examen.csv
+.DS_Store
+**/data/
